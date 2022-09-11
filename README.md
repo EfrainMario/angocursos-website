@@ -13,8 +13,8 @@ I helped to develop and bug fix same beckend features. The beckend was developed
 - leaf - ph
 - mysql
 
-You can ser the redult on:
-- Https://angocursos.com
+You can ser the result on:
+- https://angocursos.com
 - https://criador.angocursos.com
 - https://admin.angocursos.com
 - https://api.angocursos.com/curso
