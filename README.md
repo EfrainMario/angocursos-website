@@ -15,9 +15,9 @@ I helped to develop and bug fix same beckend features. The beckend was developed
 
 You can ser the result on:
 - https://angocursos.com
-- https://criador.angocursos.com
-- https://admin.angocursos.com
-- https://api.angocursos.com/curso
+- https://angocursos.com/criador-conteudo
+- https://angocursos.com/admin
+- https://angocursos.com/api/curso
 
 Enjoy it 😉
-Atè mais!!
+Até mais!!
