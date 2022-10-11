@@ -10,8 +10,8 @@ I planed and developed the Front-end side with:
 
 I helped to develop and bug fix same beckend features. The beckend was developed with:
 - php
-- leaf - ph
-- mysql
+- leaf - php
+- MySQL
 
 You can ser the result on:
 - https://angocursos.com
